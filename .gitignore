@@ -4,3 +4,5 @@ __pycache__/
 
 # macOS metadata files — created automatically by Finder, not part of your project
 .DS_Store
+
+# additional comment to prompt actions
